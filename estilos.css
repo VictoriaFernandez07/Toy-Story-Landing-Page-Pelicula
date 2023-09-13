@@ -1,0 +1,143 @@
+/* Estilos específicos para Landing-page-Toy-Story*/
+@font-face{
+font-family: 'Rubik', sans-serif;
+src: url('https://fonts.googleapis.com/css2? family= Rubik & display=swap');
+font-weight: bold;
+font-style: normal;
+}
+    
+.Logo-Toy-Story{
+text-align: center;
+margin-top: 15;
+}
+
+.Texto-01{
+font-family: 'Rubik', sans-serif;
+text-align: center;
+margin-top: 30;
+margin-left: 20;
+margin-right: 20;
+font-size: 20px;
+font-style: italic;
+}
+    
+.Imágen-01{
+box-sizing: border-box;
+overflow: clip;
+overflow: x auto;;
+overflow: y auto;
+}
+
+.responsive-image{
+max-width: 100%;
+height: auto;
+display: block;
+margin: 0 auto; 
+}
+
+.Texto-02{
+font-family: 'Rubik', sans-serif;
+text-align: center;
+text-align: justify;
+margin-top: 30;
+margin-left: 20;
+margin-right: 20;
+font-size: 20px;
+font-style: italic;
+}
+
+form{
+font-family: 'Rubik', sans-serif;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-bottom: 20px;
+}
+    
+    
+form p {
+text-align: center;
+}
+    
+    
+*{box-sizing: border-box;}
+    
+    
+form{
+width: 400px;
+height: 400px;
+padding: 16px;
+border-radius: 10px;
+margin: auto;
+background-color:#ACDD9C;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+    
+    
+form label{
+width: 250px;
+font-weight: bold;
+display: inline-block;
+text-align: center;
+margin-top: 25;
+}
+    
+    
+form input[type="email"]{
+width: 180px;
+padding: 3px 10px;
+border: 1px solid black;
+border-radius: 3px;
+background-color: white;
+margin: 8px 0;
+display: inline-block;
+}
+    
+    
+form input[type="submit"]{
+width: 100%;
+padding: 8px 16px;
+margin-top: 10px;
+margin-bottom: 5px;
+border: 1px solid black;
+border-radius: 5px;
+display: block;
+color: white;
+background-color:#ACDD9C;
+}
+    
+.footer{
+font-family: 'Rubik', sans-serif;
+text-align: center;
+background-color:#77C0E3;
+width: 100%;
+height: 150px;
+}
+
+
+/* Estilos específicos para Agradecimiento-Landing-page-Toy-Story*/
+.Agradecimiento{
+font-family: 'Rubik', sans-serif;
+text-align: center;
+margin-top: 20;
+margin-left: 20;
+margin-right: 20;
+font-size: 20px; 
+font-style: italic;
+}
+
+.Texto-entradas{
+font-family: 'Rubik', sans-serif;
+text-align: center;
+margin-top: 20;
+margin-left: 20;
+margin-right: 20;
+font-size: 20px; 
+}
+
+.Imágen-Gracias{
+text-align: center;
+}
+    
+    
